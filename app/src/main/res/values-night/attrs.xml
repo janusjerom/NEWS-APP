@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="backgroundTheme" format="color"/>
+    <attr name="primaryTitleColor" format="color"/>
+    <attr name="primaryDescColor" format="color"/>
+    <attr name="bottomBar" format="color"/>
+</resources>
